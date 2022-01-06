@@ -4,7 +4,7 @@ import random
 
 wn = turtle.Screen()
 wn.bgcolor("black")
-wn.title("Maze Game By Patrick Burns")
+wn.title("Maze Game")
 wn.setup(700,700)
 wn.tracer(0)
 
